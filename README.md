@@ -1,2 +1,16 @@
 # OnlineLibrary
 It's a library application using some of data structures in java.
+
+DATA STRUCTURES USED IN THE APPLICATION:
+
+-GRAPH
+
+-LINKEDLIST
+
+-STACK
+
+THE SOFTWARE LANGUEASE USED IN THE APPLICATION:
+-JAVA
+
+THE COMPILER:
+-INTELLIJ
