@@ -3,7 +3,7 @@ It's a library application using some of data structures in java.
 
 DATA STRUCTURES USED IN THE APPLICATION:
 
--GRAPH
+-TREE
 
 -LINKEDLIST
 
